@@ -1,0 +1,8 @@
+Gordon McCulloh
+CSE 415, Sp 21
+Assignment 2, Part 2
+
+For this assignment, I worked with Arnav Khera. Arnav completed the AStar code,
+and I created and implemented the Heuristic search functions. We met twice throughout
+this process to discuss code, results, and to decide who would take which part of 
+the project. Both partners are satisfied with the amount of work done by each other.
